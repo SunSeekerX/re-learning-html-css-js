@@ -1,0 +1,12 @@
+{
+  "name": "re-learning-html-css-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SunSeekerX/re-learning-html-css-js.git",
+  "author": "SunSeekerX <sunseekerxi@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.5.1",
+  "scripts": {
+    "gc": "git add -A && git-cz && git pull && git push"
+  }
+}
